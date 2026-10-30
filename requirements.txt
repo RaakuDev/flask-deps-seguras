@@ -1,0 +1,3 @@
+# Archivo informativo. La instalación reproducible del proyecto usa Pipfile.lock.
+# No instalar este archivo junto con pipenv para evitar dos fuentes de versiones.
+# Consultar Pipfile y Pipfile.lock para dependencias directas y versiones resueltas.
